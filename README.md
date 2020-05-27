@@ -1,2 +1,2 @@
 # MyScript
-Meus Comados se vários projectos dispersos
+Meus Comados de vários projectos dispersos
